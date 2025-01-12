@@ -1,3 +1,5 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von LeChat am 10.01.25
+
 import re
 import extract_msg
 from urllib.parse import urlparse

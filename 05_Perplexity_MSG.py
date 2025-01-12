@@ -1,3 +1,5 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von Perplexity am 09.01.25
+
 import extract_msg
 import re
 from email_validator import validate_email, EmailNotValidError

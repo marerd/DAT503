@@ -1,3 +1,5 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von Claude am 08.01.25
+
 import extract_msg
 import email
 from email import policy

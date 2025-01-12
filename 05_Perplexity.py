@@ -1,3 +1,5 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von Perplexity am 09.01.25
+
 import re
 import requests
 from bs4 import BeautifulSoup

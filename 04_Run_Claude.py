@@ -1,5 +1,7 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von Claude am 08.01.25
+
 # Beispielverwendung
-import Claude as myModule
+import 04_Claude as myModule
 detector = myModule.PhishingDetector()
 
 # URL überprüfen

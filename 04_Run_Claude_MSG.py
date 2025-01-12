@@ -1,5 +1,7 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von Claude am 08.01.25
+
 # Beispielverwendung
-import Claude_EMail_MSG as myModule
+import 04_Claude_MSG as myModule
 detector = myModule.PhishingDetector()
 
 # MSG-Datei analysieren

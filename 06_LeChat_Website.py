@@ -1,3 +1,5 @@
+# Erstellt von Markus Erdelyi mit Unterstützung von LeChat am 10.01.25
+
 import requests
 from urllib.parse import urlparse
 
@@ -23,6 +25,6 @@ def check_website(url):
     return "Keine Phishing-Merkmale erkannt"
 
 # Beispiel-URL
-url = 'https://example.com'
+url = 'https://onlinecampus.fernfh.ac.at/login/index.php'
 
 print(check_website(url))
